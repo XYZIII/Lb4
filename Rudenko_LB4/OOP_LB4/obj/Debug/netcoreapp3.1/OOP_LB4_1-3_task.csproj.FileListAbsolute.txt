@@ -1,0 +1,13 @@
+C:\Users\vadim\OneDrive\Рабочий стол\OOP_LB4-master\OOP_LB4\bin\Debug\netcoreapp3.1\OOP_LB4_1-3_task.exe
+C:\Users\vadim\OneDrive\Рабочий стол\OOP_LB4-master\OOP_LB4\bin\Debug\netcoreapp3.1\OOP_LB4_1-3_task.deps.json
+C:\Users\vadim\OneDrive\Рабочий стол\OOP_LB4-master\OOP_LB4\bin\Debug\netcoreapp3.1\OOP_LB4_1-3_task.runtimeconfig.json
+C:\Users\vadim\OneDrive\Рабочий стол\OOP_LB4-master\OOP_LB4\bin\Debug\netcoreapp3.1\OOP_LB4_1-3_task.runtimeconfig.dev.json
+C:\Users\vadim\OneDrive\Рабочий стол\OOP_LB4-master\OOP_LB4\bin\Debug\netcoreapp3.1\OOP_LB4_1-3_task.dll
+C:\Users\vadim\OneDrive\Рабочий стол\OOP_LB4-master\OOP_LB4\bin\Debug\netcoreapp3.1\OOP_LB4_1-3_task.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\OOP_LB4-master\OOP_LB4\obj\Debug\netcoreapp3.1\OOP_LB4_1-3_task.csprojAssemblyReference.cache
+C:\Users\vadim\OneDrive\Рабочий стол\OOP_LB4-master\OOP_LB4\obj\Debug\netcoreapp3.1\OOP_LB4_1-3_task.csproj.CoreCompileInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\OOP_LB4-master\OOP_LB4\obj\Debug\netcoreapp3.1\OOP_LB4_1-3_task.AssemblyInfoInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\OOP_LB4-master\OOP_LB4\obj\Debug\netcoreapp3.1\OOP_LB4_1-3_task.AssemblyInfo.cs
+C:\Users\vadim\OneDrive\Рабочий стол\OOP_LB4-master\OOP_LB4\obj\Debug\netcoreapp3.1\OOP_LB4_1-3_task.dll
+C:\Users\vadim\OneDrive\Рабочий стол\OOP_LB4-master\OOP_LB4\obj\Debug\netcoreapp3.1\OOP_LB4_1-3_task.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\OOP_LB4-master\OOP_LB4\obj\Debug\netcoreapp3.1\OOP_LB4_1-3_task.genruntimeconfig.cache
